@@ -16,7 +16,7 @@ Herramienta casera para diagramar redes de datos con descubrimiento automático 
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/network-mapper.git
+git clone https://github.com/ptrivi/network-mapper.git
 cd network-mapper
 
 # Opción 1: Setup automático
