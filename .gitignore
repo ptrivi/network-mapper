@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos generados
+*.svg
+network_map_*_report.txt
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
